@@ -1,16 +1,26 @@
-# AWT-TY-A13
 # Student Event Registration Analyzer
 
 ## Student Details
 
-- Name : Aditya Pal
-- Roll Number: A13
-- Subject: Advanced Web Technology
+Name: Aditya Pal
+
+Roll Number: A13
+
+Subject: Advanced Web Technology
 
 
-## Project Description
+## Description
 
 This project is developed using HTML, CSS, and JavaScript.
+
+### Features
+
+- Student Event Registration Form
+- Input Validation
+- Name Validation using Regular Expression
+- Participation Level Generator
+- DOM Manipulation
+- Array of Preferred Technical Events
 
 ## Technologies Used
 
@@ -18,10 +28,6 @@ This project is developed using HTML, CSS, and JavaScript.
 - CSS
 - JavaScript
 
-## Project Structure
+## How to Run
 
-- index.html
-
-## Progress
-
- Created the HTML structure for the registration form.
+Open index.html in any web browser.
