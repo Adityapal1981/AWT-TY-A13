@@ -1,13 +1,8 @@
-// Task 4: Display Technical Events
-
 var events = ["Hackathon", "Coding Contest", "Robotics Workshop"];
 
 for (var i = 0; i < events.length; i++) {
     document.getElementById("eventList").innerHTML += "<li>" + events[i] + "</li>";
 }
-
-
-// Task 2 & Task 3
 
 function checkForm() {
 
